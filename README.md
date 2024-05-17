@@ -1,1 +1,1 @@
-# Seda-Protocol-mainnet-
+# Seda-Protocol-mainnet
