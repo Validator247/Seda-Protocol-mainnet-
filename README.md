@@ -1,6 +1,7 @@
 # Seda-Protocol-mainnet
 
 Guide: https://docs.seda.xyz/home/overview/seda-technical-guides-and-documentation
+
 X: https://x.com/sedaprotocol
 
 Download  addrbook & genesis
